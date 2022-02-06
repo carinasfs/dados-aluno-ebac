@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Carina Sá Freire de Souza
+-Profissão: Assistente de apoio ao cliente
+-Cidade: Porto
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: Prático e bem explicado
+-Feedback sobre a plataforma de estudo da EBAC: Fácil acesso e bom entendimento
 
 Obrigado!!!
 
